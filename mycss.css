@@ -1,0 +1,32 @@
+/* CSS Document */
+.panel
+{
+    width: 150% !important;
+    margin-left: 20% !important;	
+}
+.btn-default
+{
+font-size:1.5em;
+height:20% !important;
+color: white;
+background-color: #337ab7;
+}
+.log
+{
+margin-top:10%;
+width:100% !important;
+margin-left:50% !important;
+}
+.userlink
+{
+color:#000000;
+font-size:1.2em
+}
+.usersignup
+{
+margin-top:10%;
+}
+.viddata
+{
+border:none !important; 
+}
